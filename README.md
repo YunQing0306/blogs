@@ -2,5 +2,7 @@
 
 ### http://blog.didispace.com
 
-[超链接] （www.baidu.com "百度"）
+
+
+[C语言及各类语言](http://c.biancheng.net/sitemap/)
 
